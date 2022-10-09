@@ -1,7 +1,6 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,5 +11,14 @@
     "cors": "^2.8.5",
     "express": "^4.18.1",
     "mongoose": "^6.6.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jagannath7345/ecom-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jagannath7345/ecom-backend/issues"
+  },
+  "homepage": "https://github.com/jagannath7345/ecom-backend#readme",
+  "description": ""
 }
